@@ -2,10 +2,15 @@
 main commands git
 
 git config —list -  показывает все настройки  репозитория
+
 cd ~/Desktop - переход в папку
+
 mkdir my-project - создание новой папки
+
 cd my-project - переход в папку
+
 echo "Some text" > file.txt - создание файла с текстом
+
 pwd - посмотреть абсолютный путь к папке
 ls - список файлов в папке
 cat file.txt - чтение файла
